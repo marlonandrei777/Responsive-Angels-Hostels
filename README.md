@@ -6,6 +6,6 @@
 
 ## 💻 Projeto
 
-Pequeno cite responsivo.
+Pequeno cite responsivo desenvolvido em HTML e CSS
 
 
