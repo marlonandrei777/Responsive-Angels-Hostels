@@ -4,7 +4,7 @@
 
 
 
-## 🧠 Desafio
+## 💻 Projeto
 
 Pequeno projeto de um cite responsivo.
 
