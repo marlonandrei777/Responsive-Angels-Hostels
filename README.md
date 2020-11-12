@@ -2,10 +2,10 @@
    Angels Hostels
 </h1
 
-<b>💻 Projeto</b>
-<hr>
+
+
+## 🧠 Desafio
+
 Pequeno projeto de um cite responsivo.
-
-
 
 
