@@ -1,5 +1,5 @@
 <h1 align="center">
-   Angels Hostels
+   Angels Hotels 
 </h1
    
 <br>
