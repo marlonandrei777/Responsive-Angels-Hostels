@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Angels Hostels
+   <b>Angels Hostels<b>
 </h1
 Pequeno projeto de um cite responsivo.
 
