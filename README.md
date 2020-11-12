@@ -6,6 +6,6 @@
 
 ## 💻 Projeto
 
-Pequeno projeto de um cite responsivo.
+Pequeno cite responsivo.
 
 
