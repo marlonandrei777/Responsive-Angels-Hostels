@@ -12,6 +12,11 @@
 
 ## 💻 Projeto
 
-Pequeno cite responsivo desenvolvido em HTML e CSS
+Pequeno cite responsivo
 
+## 🔥 Tecnologias
 
+Foi desenvolvido com as tecnologias:
+
+- HTML
+- CSS
