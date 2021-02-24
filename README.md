@@ -1,5 +1,5 @@
 <h1 align="center">
-   Angels Hotels 
+   Range Hotels 
 </h1
    
 <br>
